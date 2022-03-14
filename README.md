@@ -15,5 +15,5 @@ https://www.linkedin.com/in/stacyrhdavis/
 
 ## Acknowledgments
 
-Rick Wilson | Department of Management Science & Information Systems | Oklahoma State University Spears School of Business
-Jim Burkman | Department of Management Science & Information Systems | Oklahoma State University Spears School of Business
+* Rick Wilson | Department of Management Science & Information Systems | Oklahoma State University Spears School of Business
+* Jim Burkman | Department of Management Science & Information Systems | Oklahoma State University Spears School of Business
