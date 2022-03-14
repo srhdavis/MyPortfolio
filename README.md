@@ -5,8 +5,8 @@ This Portfolio contains my work as a Management Information Systems student at O
 Prescriptive models were built by identifying problem variables, converting them into linear algebraic equations, and imputing them into Excel Solver.
 
 ## Built With
-Excel Solver
-Microsoft SQL Server
+* Excel Solver
+* Microsoft SQL Server
 
 ## Author
 
