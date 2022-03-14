@@ -1,0 +1,7 @@
+C:\Users\worklaptop\source\repos\StacyDavis_Project4_DBMS\StacyDavis_Project4_DBMS\bin\Debug\StacyDavis_Project4_DBMS.exe.config
+C:\Users\worklaptop\source\repos\StacyDavis_Project4_DBMS\StacyDavis_Project4_DBMS\bin\Debug\StacyDavis_Project4_DBMS.exe
+C:\Users\worklaptop\source\repos\StacyDavis_Project4_DBMS\StacyDavis_Project4_DBMS\bin\Debug\StacyDavis_Project4_DBMS.pdb
+C:\Users\worklaptop\source\repos\StacyDavis_Project4_DBMS\StacyDavis_Project4_DBMS\obj\Debug\StacyDavis_Project4_DBMS.csprojAssemblyReference.cache
+C:\Users\worklaptop\source\repos\StacyDavis_Project4_DBMS\StacyDavis_Project4_DBMS\obj\Debug\StacyDavis_Project4_DBMS.csproj.CoreCompileInputs.cache
+C:\Users\worklaptop\source\repos\StacyDavis_Project4_DBMS\StacyDavis_Project4_DBMS\obj\Debug\StacyDavis_Project4_DBMS.exe
+C:\Users\worklaptop\source\repos\StacyDavis_Project4_DBMS\StacyDavis_Project4_DBMS\obj\Debug\StacyDavis_Project4_DBMS.pdb

@@ -1,0 +1,7 @@
+C:\Users\worklaptop\source\repos\StacyDavis-Project1-RPSLS\StacyDavis-Project1-RPSLS\bin\Debug\StacyDavis-Project1-RPSLS.exe.config
+C:\Users\worklaptop\source\repos\StacyDavis-Project1-RPSLS\StacyDavis-Project1-RPSLS\bin\Debug\StacyDavis-Project1-RPSLS.exe
+C:\Users\worklaptop\source\repos\StacyDavis-Project1-RPSLS\StacyDavis-Project1-RPSLS\bin\Debug\StacyDavis-Project1-RPSLS.pdb
+C:\Users\worklaptop\source\repos\StacyDavis-Project1-RPSLS\StacyDavis-Project1-RPSLS\obj\Debug\StacyDavis-Project1-RPSLS.csprojAssemblyReference.cache
+C:\Users\worklaptop\source\repos\StacyDavis-Project1-RPSLS\StacyDavis-Project1-RPSLS\obj\Debug\StacyDavis-Project1-RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\worklaptop\source\repos\StacyDavis-Project1-RPSLS\StacyDavis-Project1-RPSLS\obj\Debug\StacyDavis-Project1-RPSLS.exe
+C:\Users\worklaptop\source\repos\StacyDavis-Project1-RPSLS\StacyDavis-Project1-RPSLS\obj\Debug\StacyDavis-Project1-RPSLS.pdb

@@ -1,0 +1,7 @@
+C:\Users\worklaptop\source\repos\StacyDavis-Project2-Blackjack\StacyDavis-Project2-Blackjack\bin\Debug\StacyDavis-Project2-Blackjack.exe.config
+C:\Users\worklaptop\source\repos\StacyDavis-Project2-Blackjack\StacyDavis-Project2-Blackjack\bin\Debug\StacyDavis-Project2-Blackjack.exe
+C:\Users\worklaptop\source\repos\StacyDavis-Project2-Blackjack\StacyDavis-Project2-Blackjack\bin\Debug\StacyDavis-Project2-Blackjack.pdb
+C:\Users\worklaptop\source\repos\StacyDavis-Project2-Blackjack\StacyDavis-Project2-Blackjack\obj\Debug\StacyDavis-Project2-Blackjack.csprojAssemblyReference.cache
+C:\Users\worklaptop\source\repos\StacyDavis-Project2-Blackjack\StacyDavis-Project2-Blackjack\obj\Debug\StacyDavis-Project2-Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\worklaptop\source\repos\StacyDavis-Project2-Blackjack\StacyDavis-Project2-Blackjack\obj\Debug\StacyDavis-Project2-Blackjack.exe
+C:\Users\worklaptop\source\repos\StacyDavis-Project2-Blackjack\StacyDavis-Project2-Blackjack\obj\Debug\StacyDavis-Project2-Blackjack.pdb
