@@ -7,6 +7,7 @@ Prescriptive models were built by identifying problem variables, converting them
 ## Built With
 * Excel Solver
 * Microsoft SQL Server
+* C#
 
 ## Author
 
@@ -17,3 +18,4 @@ https://www.linkedin.com/in/stacyrhdavis/
 
 * Rick Wilson | Department of Management Science & Information Systems | Oklahoma State University Spears School of Business
 * Jim Burkman | Department of Management Science & Information Systems | Oklahoma State University Spears School of Business
+* Chenzhang Bao | Department of Management Science & Information Systems | Oklahoma State University Spears School of Business
